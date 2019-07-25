@@ -1,0 +1,25 @@
+{
+  "name": "CatDog",
+  "version": "1.0.0",
+  "description": "JS, Node.js, MySQL, Express, Handlebars, Sequalize",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raxemmohamed/CatDog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raxemmohamed/CatDog/issues"
+  },
+  "homepage": "https://github.com/raxemmohamed/CatDog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0"
+  }
+}
